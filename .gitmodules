@@ -1,0 +1,54 @@
+[submodule "scala-koans"]
+	path = scala-koans
+	url = https://github.com/rubbish/scala-koans.git
+[submodule "lisp-koans"]
+	path = lisp-koans
+	url = https://github.com/google/lisp-koans.git
+[submodule "kotlin-koans"]
+	path = kotlin-koans
+	url = https://github.com/Kotlin/kotlin-koans.git
+[submodule "lua_missions"]
+	path = lua_missions
+	url = https://github.com/kikito/lua_missions.git
+[submodule "CppKoans"]
+	path = CppKoans
+	url = https://github.com/torbjoernk/CppKoans.git
+[submodule "sql-koans"]
+	path = sql-koans
+	url = https://github.com/phillipjohnson/sql-koans.git
+[submodule "lein-koan"]
+	path = lein-koan
+	url = https://github.com/functional-koans/lein-koan.git
+[submodule "clojure-koans"]
+	path = clojure-koans
+	url = https://github.com/functional-koans/clojure-koans.git
+[submodule "coffeescript-koans"]
+	path = coffeescript-koans
+	url = https://github.com/sleepyfox/coffeescript-koans.git
+[submodule "clojurescript-koans"]
+	path = clojurescript-koans
+	url = https://github.com/lazerwalker/clojurescript-koans.git
+[submodule "python_koans"]
+	path = python_koans
+	url = https://github.com/gregmalcolm/python_koans.git
+[submodule "java-koans"]
+	path = java-koans
+	url = https://github.com/matyb/java-koans.git
+[submodule "githug"]
+	path = githug
+	url = https://github.com/Gazler/githug.git
+[submodule "elixir-koans"]
+	path = elixir-koans
+	url = https://github.com/elixirkoans/elixir-koans.git
+[submodule "erlang-koans"]
+	path = erlang-koans
+	url = https://github.com/patrickgombert/erlang-koans.git
+[submodule "HaskellKoans"]
+	path = HaskellKoans
+	url = https://github.com/HaskVan/HaskellKoans.git
+[submodule "scala-exercises"]
+	path = scala-exercises
+	url = https://github.com/scala-exercises/scala-exercises.git
+[submodule "groovy_koans"]
+	path = groovy_koans
+	url = https://github.com/cjudd/groovy_koans.git
