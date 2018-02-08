@@ -52,3 +52,27 @@
 [submodule "groovy_koans"]
 	path = groovy_koans
 	url = https://github.com/cjudd/groovy_koans.git
+[submodule "javascript-koans"]
+	path = javascript-koans
+	url = https://github.com/mrdavidlaing/javascript-koans
+[submodule "go-koans"]
+	path = go-koans
+	url = https://github.com/cdarwin/go-koans
+[submodule "bash_koans"]
+	path = bash_koans
+	url = https://github.com/marcinbunsch/bash_koans
+[submodule "JavaScript-Koans"]
+	path = JavaScript-Koans
+	url = https://github.com/8pointers/JavaScript-Koans
+[submodule "ruby-koans"]
+	path = ruby-koans
+	url = https://github.com/tiy-tpa-ruby/koans
+[submodule "gnu_smalltalk_koans"]
+	path = gnu_smalltalk_koans
+	url = https://github.com/sl4m/gnu_smalltalk_koans
+[submodule "rust-koans"]
+	path = rust-koans
+	url = https://github.com/crazymykl/rust-koans
+[submodule "c_koans"]
+	path = c_koans
+	url = https://github.com/c-koans/c_koans
