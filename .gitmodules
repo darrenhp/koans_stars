@@ -76,3 +76,6 @@
 [submodule "c_koans"]
 	path = c_koans
 	url = https://github.com/c-koans/c_koans
+[submodule "racket-koans"]
+	path = racket-koans
+	url = https://github.com/zyrolasting/racket-koans
