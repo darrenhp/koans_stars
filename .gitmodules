@@ -76,3 +76,6 @@
 [submodule "c_koans"]
 	path = c_koans
 	url = https://github.com/c-koans/c_koans
+[submodule "PHP-Koans"]
+	path = PHP-Koans
+	url = https://github.com/mtoigo/PHP-Koans
