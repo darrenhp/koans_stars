@@ -79,3 +79,9 @@
 [submodule "PHP-Koans"]
 	path = PHP-Koans
 	url = https://github.com/mtoigo/PHP-Koans
+[submodule "racket-koans"]
+	path = racket-koans
+	url = https://github.com/zyrolasting/racket-koans
+[submodule "groovykoans"]
+	path = groovykoans
+	url = https://github.com/nadavc/groovykoans
