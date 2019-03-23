@@ -76,9 +76,18 @@
 [submodule "c_koans"]
 	path = c_koans
 	url = https://github.com/c-koans/c_koans
+[submodule "PHP-Koans"]
+	path = PHP-Koans
+	url = https://github.com/mtoigo/PHP-Koans
 [submodule "racket-koans"]
 	path = racket-koans
 	url = https://github.com/zyrolasting/racket-koans
+<<<<<<< HEAD
 [submodule "awkKoans"]
 	path = awkKoans
 	url = https://github.com/analogpixel/awkKoans.git
+=======
+[submodule "groovykoans"]
+	path = groovykoans
+	url = https://github.com/nadavc/groovykoans
+>>>>>>> 9f2b87b22592d19331eb67a7cc1a050380d6c672
