@@ -79,3 +79,6 @@
 [submodule "racket-koans"]
 	path = racket-koans
 	url = https://github.com/zyrolasting/racket-koans
+[submodule "awkKoans"]
+	path = awkKoans
+	url = https://github.com/analogpixel/awkKoans.git
